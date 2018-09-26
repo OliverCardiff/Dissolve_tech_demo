@@ -1,0 +1,329 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>bigblack.bmp</Source>
+      <Name>bigblack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver Rimington\Google Drive\Usb Backup\lowo\XNA\Dissolve\Dissolve\bin\x86\Debug\Content\bigblack.xnb</Output>
+      <Time>2009-03-04T22:55:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerTex\bullet.png</Source>
+      <Name>PlayerTex\bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver Rimington\Google Drive\Usb Backup\lowo\XNA\Dissolve\Dissolve\bin\x86\Debug\Content\PlayerTex\bullet.xnb</Output>
+      <Time>2009-03-01T02:10:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerTex\player.png</Source>
+      <Name>PlayerTex\player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver Rimington\Google Drive\Usb Backup\lowo\XNA\Dissolve\Dissolve\bin\x86\Debug\Content\PlayerTex\player.xnb</Output>
+      <Time>2009-03-03T19:57:06+00:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\dot.bmp</Source>
+      <Name>UI\dot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver Rimington\Google Drive\Usb Backup\lowo\XNA\Dissolve\Dissolve\bin\x86\Debug\Content\UI\dot.xnb</Output>
+      <Time>2009-03-01T02:00:32+00:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyTex\chaser.png</Source>
+      <Name>EnemyTex\chaser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver Rimington\Google Drive\Usb Backup\lowo\XNA\Dissolve\Dissolve\bin\x86\Debug\Content\EnemyTex\chaser.xnb</Output>
+      <Time>2009-03-01T21:13:54+00:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyTex\divider.png</Source>
+      <Name>EnemyTex\divider</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver Rimington\Google Drive\Usb Backup\lowo\XNA\Dissolve\Dissolve\bin\x86\Debug\Content\EnemyTex\divider.xnb</Output>
+      <Time>2009-03-01T21:14:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerTex\bullet2.png</Source>
+      <Name>PlayerTex\bullet2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver Rimington\Google Drive\Usb Backup\lowo\XNA\Dissolve\Dissolve\bin\x86\Debug\Content\PlayerTex\bullet2.xnb</Output>
+      <Time>2009-03-02T08:00:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyTex\spinner.png</Source>
+      <Name>EnemyTex\spinner</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver Rimington\Google Drive\Usb Backup\lowo\XNA\Dissolve\Dissolve\bin\x86\Debug\Content\EnemyTex\spinner.xnb</Output>
+      <Time>2009-03-02T07:41:24+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Normals\bw2.bmp</Source>
+      <Name>Normals\bw2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver Rimington\Google Drive\Usb Backup\lowo\XNA\Dissolve\Dissolve\bin\x86\Debug\Content\Normals\bw2.xnb</Output>
+      <Time>2009-03-02T12:30:56+00:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyTex\chaserBullet.png</Source>
+      <Name>EnemyTex\chaserBullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver Rimington\Google Drive\Usb Backup\lowo\XNA\Dissolve\Dissolve\bin\x86\Debug\Content\EnemyTex\chaserBullet.xnb</Output>
+      <Time>2009-03-02T14:33:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerTex\bullet3.png</Source>
+      <Name>PlayerTex\bullet3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver Rimington\Google Drive\Usb Backup\lowo\XNA\Dissolve\Dissolve\bin\x86\Debug\Content\PlayerTex\bullet3.xnb</Output>
+      <Time>2009-03-04T12:58:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Normals\blast1_NRM.png</Source>
+      <Name>Normals\blast1_NRM</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver Rimington\Google Drive\Usb Backup\lowo\XNA\Dissolve\Dissolve\bin\x86\Debug\Content\Normals\blast1_NRM.xnb</Output>
+      <Time>2009-03-11T15:28:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyTex\brancher.png</Source>
+      <Name>EnemyTex\brancher</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver Rimington\Google Drive\Usb Backup\lowo\XNA\Dissolve\Dissolve\bin\x86\Debug\Content\EnemyTex\brancher.xnb</Output>
+      <Time>2009-03-03T22:03:10+00:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyTex\boss.png</Source>
+      <Name>EnemyTex\boss</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver Rimington\Google Drive\Usb Backup\lowo\XNA\Dissolve\Dissolve\bin\x86\Debug\Content\EnemyTex\boss.xnb</Output>
+      <Time>2009-03-03T19:02:32+00:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyTex\seed.png</Source>
+      <Name>EnemyTex\seed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver Rimington\Google Drive\Usb Backup\lowo\XNA\Dissolve\Dissolve\bin\x86\Debug\Content\EnemyTex\seed.xnb</Output>
+      <Time>2009-03-03T21:35:36+00:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerTex\finalPlayer.png</Source>
+      <Name>PlayerTex\finalPlayer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver Rimington\Google Drive\Usb Backup\lowo\XNA\Dissolve\Dissolve\bin\x86\Debug\Content\PlayerTex\finalPlayer.xnb</Output>
+      <Time>2009-03-03T20:03:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerTex\finalBullet.png</Source>
+      <Name>PlayerTex\finalBullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver Rimington\Google Drive\Usb Backup\lowo\XNA\Dissolve\Dissolve\bin\x86\Debug\Content\PlayerTex\finalBullet.xnb</Output>
+      <Time>2009-03-03T20:12:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Normals\veins3_NRM.png</Source>
+      <Name>Normals\veins3_NRM</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver Rimington\Google Drive\Usb Backup\lowo\XNA\Dissolve\Dissolve\bin\x86\Debug\Content\Normals\veins3_NRM.xnb</Output>
+      <Time>2009-03-04T02:22:44+00:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyTex\worm.png</Source>
+      <Name>EnemyTex\worm</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver Rimington\Google Drive\Usb Backup\lowo\XNA\Dissolve\Dissolve\bin\x86\Debug\Content\EnemyTex\worm.xnb</Output>
+      <Time>2009-03-04T13:55:42+00:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\normal.bmp</Source>
+      <Name>UI\normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver Rimington\Google Drive\Usb Backup\lowo\XNA\Dissolve\Dissolve\bin\x86\Debug\Content\UI\normal.xnb</Output>
+      <Time>2009-03-06T00:50:10+00:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\mainmenu.bmp</Source>
+      <Name>UI\mainmenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver Rimington\Google Drive\Usb Backup\lowo\XNA\Dissolve\Dissolve\bin\x86\Debug\Content\UI\mainmenu.xnb</Output>
+      <Time>2009-03-06T00:49:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\mouseover.bmp</Source>
+      <Name>UI\mouseover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver Rimington\Google Drive\Usb Backup\lowo\XNA\Dissolve\Dissolve\bin\x86\Debug\Content\UI\mouseover.xnb</Output>
+      <Time>2009-03-06T00:50:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Normals\starbomb_NRM.png</Source>
+      <Name>Normals\starbomb_NRM</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver Rimington\Google Drive\Usb Backup\lowo\XNA\Dissolve\Dissolve\bin\x86\Debug\Content\Normals\starbomb_NRM.xnb</Output>
+      <Time>2009-03-07T23:21:36+00:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerTex\wormForm.png</Source>
+      <Name>PlayerTex\wormForm</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver Rimington\Google Drive\Usb Backup\lowo\XNA\Dissolve\Dissolve\bin\x86\Debug\Content\PlayerTex\wormForm.xnb</Output>
+      <Time>2009-03-09T20:46:58+00:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerTex\finalWormForm.png</Source>
+      <Name>PlayerTex\finalWormForm</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver Rimington\Google Drive\Usb Backup\lowo\XNA\Dissolve\Dissolve\bin\x86\Debug\Content\PlayerTex\finalWormForm.xnb</Output>
+      <Time>2009-03-09T20:45:52+00:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerTex\bullet4.png</Source>
+      <Name>PlayerTex\bullet4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver Rimington\Google Drive\Usb Backup\lowo\XNA\Dissolve\Dissolve\bin\x86\Debug\Content\PlayerTex\bullet4.xnb</Output>
+      <Time>2009-03-09T23:09:00+00:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyTex\wormBoss.png</Source>
+      <Name>EnemyTex\wormBoss</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver Rimington\Google Drive\Usb Backup\lowo\XNA\Dissolve\Dissolve\bin\x86\Debug\Content\EnemyTex\wormBoss.xnb</Output>
+      <Time>2009-03-11T11:10:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>HLSL\Dissolve.fx</Source>
+      <Name>HLSL\Dissolve</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver Rimington\Google Drive\Usb Backup\lowo\XNA\Dissolve\Dissolve\bin\x86\Debug\Content\HLSL\Dissolve.xnb</Output>
+      <Time>2009-03-09T21:18:00+00:00</Time>
+    </Item>
+    <Item>
+      <Source>HLSL\NormalDistortion.fx</Source>
+      <Name>HLSL\NormalDistortion</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver Rimington\Google Drive\Usb Backup\lowo\XNA\Dissolve\Dissolve\bin\x86\Debug\Content\HLSL\NormalDistortion.xnb</Output>
+      <Time>2009-03-03T10:01:58+00:00</Time>
+    </Item>
+    <Item>
+      <Source>HLSL\Final.fx</Source>
+      <Name>HLSL\Final</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver Rimington\Google Drive\Usb Backup\lowo\XNA\Dissolve\Dissolve\bin\x86\Debug\Content\HLSL\Final.xnb</Output>
+      <Time>2009-03-06T03:02:24+00:00</Time>
+    </Item>
+    <Item>
+      <Source>HLSL\Particles.fx</Source>
+      <Name>HLSL\Particles</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver Rimington\Google Drive\Usb Backup\lowo\XNA\Dissolve\Dissolve\bin\x86\Debug\Content\HLSL\Particles.xnb</Output>
+      <Time>2009-03-06T22:29:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\Arial.spritefont</Source>
+      <Name>UI\Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Oliver Rimington\Google Drive\Usb Backup\lowo\XNA\Dissolve\Dissolve\bin\x86\Debug\Content\UI\Arial.xnb</Output>
+      <Time>2009-03-01T02:17:08+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Oliver Rimington\Google Drive\Usb Backup\lowo\XNA\Dissolve\Dissolve\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Oliver Rimington\Google Drive\Usb Backup\lowo\XNA\Dissolve\Dissolve\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Oliver Rimington\Google Drive\Usb Backup\lowo\XNA\Dissolve\Dissolve\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Oliver Rimington\Google Drive\Usb Backup\lowo\XNA\Dissolve\Dissolve\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-10-10T17:42:32+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-10-10T17:43:28+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-10-10T17:43:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-10-10T17:48:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-10-10T17:48:50+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-05-26T18:45:33.9490743+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
